@@ -7,6 +7,6 @@ files:
       two_letters_code:
         it: Italian
   - source: /source
-    translation: /Translation/%two_letters_code%/%original_file_name%
+    translation: /translation/%two_letters_code%/%original_file_name%
     first_line_contains_header: '1'
     scheme: 'none,source_phrase,translation,context'
