@@ -1,4 +1,3 @@
 files:
-  - source: source/tr
+  - source: /source/tr
     translation: /translation/%two_letters_code%/%original_file_name%
-    config_path: crowdin2.yml
