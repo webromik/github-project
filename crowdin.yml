@@ -1,5 +1,5 @@
 files:
-  - source: /master/source/tr/Ukrainian2.xml
+  - source: /source/tr/Ukrainian2.xml
     translation: /translation/%two_letters_code%/%original_file_name%
     languages_mapping:
       two_letters_code:
